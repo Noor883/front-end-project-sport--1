@@ -1,0 +1,14 @@
+#backform
+{background:rgb(128, 188, 69)
+
+}
+#userInputContainers>div
+{ width: 30% 
+margin-right:3rem}
+
+#hero conta{
+background-image:url("./image/qata\ 1.jpeg")
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
